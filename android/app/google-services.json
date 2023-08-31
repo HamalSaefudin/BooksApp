@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041722514467",
+    "project_id": "hamalbooksappchallange123",
+    "storage_bucket": "hamalbooksappchallange123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041722514467:android:ba6c95b52a9fb700952596",
+        "android_client_info": {
+          "package_name": "com.hamalbooksappchallange123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041722514467-qqok3jtb1i4n0ljcgqd85dme66tvj7v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamalbooksappchallange123",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1041722514467-mjtoidl4oi21i4ht3qqnceqtdgvsvr45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYRU2yYSwinJ9IOeloOVcbL3HTjTwpV88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041722514467-mjtoidl4oi21i4ht3qqnceqtdgvsvr45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
